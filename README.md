@@ -9,3 +9,10 @@ This repository provides the main data files, i.e. metadata and dada2 feature-ta
 qiime2 is required to run most of the commands described below (the 2018.2 qiime2 version was used).
 To install qiime2 follow these instructions: https://docs.qiime2.org/2019.1/install/.
 To activate the qiime2 conda environment run: source activate qiime2-2019.1 (or the other installed version).
+
+### File explanations
+
+ - Metadata: metadata-malesrt.txt (metadata for wild bank voles from the Chernobyl Exclusion Zone, Ukraine)
+ - qiime2 feature-table: malesrt2_table-dada2.qza (the original dada2 feature-table)
+ - qiime2 rarefied feature-table: rarefied_table.qza (the 'filtered10', rarefied dada2 feature-table)
+ - qiime2 representative sequences: malesrt2_rep-seqs-dada2.qza (the dada2 representative sequences)
