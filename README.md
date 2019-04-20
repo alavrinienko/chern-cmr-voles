@@ -12,6 +12,7 @@ To activate the qiime2 conda environment run: source activate qiime2-2019.1 (or 
 
 ### File explanations
 
+ - qiime2 analysis notebook: chern-cmr-voles-v200419.ipynb
  - Metadata: metadata-malesrt.txt (metadata for wild bank voles from the Chernobyl Exclusion Zone, Ukraine)
  - qiime2 feature-table: malesrt2_table-dada2.qza (the original dada2 feature-table)
  - qiime2 rarefied feature-table: rarefied_table.qza (the 'filtered10', rarefied dada2 feature-table)
