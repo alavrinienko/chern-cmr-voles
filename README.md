@@ -1,7 +1,7 @@
 # Analysis Notebook
 [![DOI](https://zenodo.org/badge/82461239.svg)](https://zenodo.org/badge/latestdoi/82461239)
 
-This repository contains the notebook used to analyse the data in Lavrinienko et al. 20XX. The notebook contains commands to process raw read data and reproduce the qiime2 analyses.
+This repository contains the notebook used to analyse the data in Lavrinienko et al. 2020. The notebook contains commands to process raw read data and reproduce the qiime2 analyses.
 
 This repository provides the main data files, i.e. metadata and dada2 feature-tables, from which the rest of the data can be generated using these commands. The raw sequence data are freely available through Qiita [study ID 12325](https://qiita.ucsd.edu/study/description/12325) or EBI-European Nucleotide Archive: [ERP114357](https://www.ebi.ac.uk/ena/data/view/ERP114357).
 
