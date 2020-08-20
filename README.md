@@ -1,4 +1,5 @@
 # Analysis Notebook
+[![DOI](https://zenodo.org/badge/82461239.svg)](https://zenodo.org/badge/latestdoi/82461239)
 
 This repository contains the notebook used to analyse the data in Lavrinienko et al. 20XX. The notebook contains commands to process raw read data and reproduce the qiime2 analyses.
 
