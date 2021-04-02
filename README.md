@@ -27,3 +27,4 @@ To activate the qiime2 conda environment run: source activate qiime2-2019.1 (or 
 
 
 Change log: updated code according to the JAE revisions (30/07/2020), see chern-cmr-voles-v300720.ipynb
+Change log: updated citation of this research (02/04/2021)
