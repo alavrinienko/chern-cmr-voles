@@ -5,6 +5,10 @@ This repository contains the notebook used to analyse the data in Lavrinienko et
 
 This repository provides the main data files, i.e. metadata and dada2 feature-tables, from which the rest of the data can be generated using these commands. The raw sequence data are freely available through Qiita [study ID 12325](https://qiita.ucsd.edu/study/description/12325) or EBI-European Nucleotide Archive: [ERP114357](https://www.ebi.ac.uk/ena/data/view/ERP114357).
 
+If you use this resource in your research, please cite the following [article](https://doi.org/10.1111/1365-2656.13342):
+
+Lavrinienko, A., Tukalenko, E., Kesäniemi, J., Kivisaari, K., Masiuk, S., Boratyński, Z., … Watts, P. C. (2020). Applying the Anna Karenina principle for wild animal gut microbiota: Temporal stability of the bank vole gut microbiota in a disturbed environment. *Journal of Animal Ecology*. doi: 10.1111/1365-2656.13342
+
 ## Requirements
 
 qiime2 is required to run most of the commands described below (the 2018.2 qiime2 version was used).
